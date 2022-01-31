@@ -1,0 +1,23 @@
+* {
+    background-color: whitesmoke;
+}
+
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ol {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+h1 {
+    font-weight: 700;
+    color: burlywood;
+    text-align: center;
+}
